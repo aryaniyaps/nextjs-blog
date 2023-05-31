@@ -1,1 +1,7 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+# NextJS Blog
+
+This is my first application using NextJS.
+
+## Preview
+
+![website preview](/.assets/preview.png)
