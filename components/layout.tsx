@@ -6,7 +6,7 @@ import utilStyles from "../styles/utils.module.css";
 import styles from "./layout.module.css";
 
 const name = "Aryan Iyappan";
-export const siteTitle = "Next.js Sample Website";
+export const siteTitle = "Aryan's Blog";
 
 export default function Layout({ children, home = false }: PropsWithChildren<{home?: boolean}>) {
   return (
