@@ -18,10 +18,6 @@ export default function Home({ allPostsData }: {allPostsData: PostData[]}) {
           about building web apps and this is my first application using
           Next.js! I'm loving it!
         </p>
-        <p>
-          (This is a sample website - you’ll be building a site like this on{" "}
-          <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
-        </p>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
