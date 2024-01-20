@@ -1,0 +1,189 @@
+repo_name: aryaniyaps/nextjs-blog
+report_id: 5b55db01e1c5c3d6cd6f2b13ecffe399
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-20T08:14:19+00:00'
+requested_by: aryaniyaps
+provider: github
+branch: main
+detected_tools_count: 14
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 06:58:25.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog
+  detection_source: Repo Metadata
+- name: Next.js
+  description: 'A small framework for server-rendered universal JavaScript apps '
+  website_url: https://nextjs.org/
+  version: 13.4.4
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5936/nextjs.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 02:07:41.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 02:07:41.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 06:58:25.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 02:07:41.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 06:06:02.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 07:06:16.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 07:06:16.000000000 Z
+- name: gray-matter
+  description: Parse front-matter from a string or file
+  package_url: https://www.npmjs.com/gray-matter
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17773/default_2f87d5add351cc79d3471e48bc0dd6f92c1288ad.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 06:06:02.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 06:58:25.000000000 Z
+- name: remark
+  description: Markdown processor powered by plugins
+  package_url: https://www.npmjs.com/remark
+  version: 14.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16952/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/aryaniyaps/nextjs-blog/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Aryan Iyappan
+  last_updated_on: 2023-05-31 06:06:02.000000000 Z
