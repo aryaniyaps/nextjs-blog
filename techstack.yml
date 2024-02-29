@@ -2,7 +2,7 @@ repo_name: aryaniyaps/nextjs-blog
 report_id: 5b55db01e1c5c3d6cd6f2b13ecffe399
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-20T08:14:19+00:00'
+timestamp: '2024-02-29T19:31:04+00:00'
 requested_by: aryaniyaps
 provider: github
 branch: main
@@ -43,7 +43,7 @@ tools:
   detection_source_url: https://github.com/aryaniyaps/nextjs-blog
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 13.4.4
   open_source: true
